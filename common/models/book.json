@@ -1,6 +1,6 @@
 {
   "name": "Book",
-  "base": "PersistedModel",
+  "base": "BaseEntity",
   "idInjection": true,
   "properties": {
     "name": {
